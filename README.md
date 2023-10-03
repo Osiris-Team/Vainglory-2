@@ -36,8 +36,8 @@ Central server hosted on a single instance by me. The cost for this is a few eur
 - [ ] Skins
 - [ ] Lobby-/game-search
      
-## Todo P2P/Game Server
-P2P (Peer-to-Peer) servers that are hosted by the players, will handle actual games.
+## Todo P2P/Game "Server"
+P2P (Peer-to-Peer) system by the players, will handle actual games.
 - [x] Built with Unreal Engine 5
 Broadcast player...
 - [ ] location on map
