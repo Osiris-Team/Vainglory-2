@@ -49,6 +49,7 @@ Central server hosted on a single instance by me. The cost for this is a few eur
      
 ## Todo P2P/Game "Server"
 P2P (Peer-to-Peer) system by the players, will handle actual games (included in client).
+https://www.youtube.com/watch?v=x0N7FbKTAhA&t=163s
 - [x] Built with Unreal Engine 5
 
 Broadcast player...
