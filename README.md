@@ -11,6 +11,7 @@ There are only a few things to look out for. Your contribution should...
 - be balanced.
 - benefit the majority of players.
 - ensure that all used assets/media are owned/created by you or if free include the license.
+- not contain anything (like heroes, maps etc.) that exist 1-to-1 in the original game.
 If you want to work on a specific feature listed below, create an issue telling you are working on it.
 Try your best to make the deadline.
 
@@ -18,6 +19,15 @@ Try your best to make the deadline.
 - [x] Built with Unreal Engine 5
 - [x] Runs on Windows, Mac, Linux, Android, iOS
 - [ ] 3v3 Map
+- [ ] 2D overlay of 3v3 Map
+- [ ] Fog of war
+- [ ] Hero controller
+- [ ] Hero camera
+- [ ] Adagio clone
+- [ ] Reim clone
+- [ ] Saw clone
+
+Server related:
 - [ ] User profiles UI
 - [ ] User stats UI
 - [ ] Friends UI
@@ -39,6 +49,7 @@ Central server hosted on a single instance by me. The cost for this is a few eur
 ## Todo P2P/Game "Server"
 P2P (Peer-to-Peer) system by the players, will handle actual games.
 - [x] Built with Unreal Engine 5
+
 
 Broadcast player...
 - [ ] location on map
