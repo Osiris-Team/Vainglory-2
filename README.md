@@ -18,43 +18,43 @@ Try your best to make the deadline.
 ## Todo Client
 - [x] Built with Unreal Engine 5
 - [x] Runs on Windows, Mac, Linux, Android, iOS
-- [ ] 3v3 Map
-- [ ] 2D overlay of 3v3 Map
-- [ ] Fog of war
-- [ ] Hero controller
-- [ ] Hero camera
-- [ ] Adagio clone
-- [ ] Reim clone
-- [ ] Saw clone
+- [ ] 11.2023: 3v3 Map
+- [ ] 11.2023: 2D overlay of 3v3 Map
+- [ ] 11.2023: Fog of war
+- [ ] 11.2023: Hero controller
+- [ ] 11.2023: Hero camera
+- [ ] 12.2023: Adagio clone
+- [ ] 01.2024: Reim clone
+- [ ] 02.2024: Saw clone
 
 Server related:
-- [ ] User profiles UI
-- [ ] User stats UI
-- [ ] Friends UI
-- [ ] Clans UI
-- [ ] Skins UI
-- [ ] Lobby-/game-search UI
+- [ ] 11.2023: User profiles UI
+- [ ] 11.2023: User stats UI
+- [ ] 11.2023: Lobby-/game-search UI
+- [ ] 01.2024: Skins UI
+- [ ] 01.2024: Friends UI
+- [ ] 02.2024: Clans UI
+
 
 ## Todo Central/Master Server
 Central server hosted on a single instance by me. The cost for this is a few euros per month.
 - [ ] Built with ?
 - [ ] Runs on Windows, Mac, Linux
-- [ ] User profiles
-- [ ] User stats
-- [ ] Friends
-- [ ] Clans
-- [ ] Skins
-- [ ] Lobby-/game-search
+- [ ] 11.2023: User profiles 
+- [ ] 11.2023: User stats 
+- [ ] 11.2023: Lobby-/game-search 
+- [ ] 01.2024: Skins 
+- [ ] 01.2024: Friends 
+- [ ] 02.2024: Clans 
      
 ## Todo P2P/Game "Server"
-P2P (Peer-to-Peer) system by the players, will handle actual games.
+P2P (Peer-to-Peer) system by the players, will handle actual games (included in client).
 - [x] Built with Unreal Engine 5
 
-
 Broadcast player...
-- [ ] location on map
-- [ ] click/tap/movement
-- [ ] select target
-- [ ] attack
-- [ ] select ability
-- [ ] activate ability (+ optional location)
+- [ ] 11.2023: location on map
+- [ ] 11.2023: click/tap/movement
+- [ ] 11.2023: select target
+- [ ] 11.2023: attack
+- [ ] 12.2023: select ability
+- [ ] 12.2023: activate ability (+ optional location)
