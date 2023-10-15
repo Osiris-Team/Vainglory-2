@@ -2,7 +2,8 @@
 Community-made Vainglory clone in UE5.
 
 ## Status
-Creation of Todo lists, organization, scope, and deadlines.
+Default UE5 top down project with server hosted by one player:
+![image](https://github.com/Osiris-Team/Vainglory-2/assets/59899645/a1e3fce8-9585-4fa2-b3e4-0134e5b98b82)
 
 ## Contribute
 I will accept all contributions.
